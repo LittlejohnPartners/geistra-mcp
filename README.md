@@ -35,3 +35,7 @@ To make your AI use Geistra without being asked, add these instructions to it: h
 Your data is stored in the U.S., encrypted, never used to train AI, and can be deleted at any time. Each AI app connects with its own permissions, which you can change or revoke in Geistra's web app. Privacy policy: https://geistra.com/privacy
 
 Operated by Littlejohn Partners LLC. For businesses: [Geistra Pro](https://geistra.pro).
+
+## License
+
+The files in this repository (connection settings and documentation) are under the [MIT License](LICENSE). It covers only these files: it grants no rights to the hosted Geistra service, its source code, or the Geistra name and logo.
