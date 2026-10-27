@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.geistra/geistra",
+  "title": "Geistra",
+  "description": "Shared memory for your AI apps: Spaces of records, files and plans you and others can work in.",
+  "version": "1.0.0",
+  "websiteUrl": "https://geistra.com",
+  "icons": [{ "src": "https://app.geistra.com/geistra-icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }],
+  "remotes": [{ "type": "streamable-http", "url": "https://mcp.geistra.com/mcp" }]
+}

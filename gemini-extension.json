@@ -1,0 +1,11 @@
+{
+  "name": "geistra",
+  "version": "1.0.0",
+  "description": "Shared memory for your AI apps: Spaces of records, files and plans you and others can work in.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "geistra": {
+      "httpUrl": "https://mcp.geistra.com/mcp"
+    }
+  }
+}
